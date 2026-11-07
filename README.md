@@ -1,17 +1,61 @@
 # Hi, I'm Victor Manuel Yecyec 👋
 
-**Full-stack web developer** and Computer Engineering graduate from Cebu City, Philippines. I build secure, well-tested web apps with Next.js, Node.js, and TypeScript, and I ship them to production.
+**Full-Stack Web Developer** and Computer Engineering graduate. I'm currently living in Cebu City, Philippines. I build secure, well-tested web apps with Next.js, Node.js, and TypeScript, and I ship them to production.
 
-📍 Cebu City, PH (UTC+8) · 📫 [v.yecyec7@gmail.com](mailto:v.yecyec7@gmail.com) · 🌐 [vmy-dev.vercel.app](https://vmy-dev.vercel.app) · 💼 [LinkedIn](https://linkedin.com/in/vmyecyec)
+📍 Cebu City, PH (GMT+8) · 📫 [v.yecyec7@gmail.com](mailto:v.yecyec7@gmail.com) · 🌐 [vmy-dev.vercel.app](https://vmy-dev.vercel.app) · 💼 [LinkedIn](https://linkedin.com/in/vmyecyec)
+
+---
+
+## 🌐 Socials:
+ 
+<a href="https://linkedin.com/in/vmyecyec"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Begeeeg"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://vmy-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:v.yecyec7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+
+---
+ 
+## 💻 Tech Stack:
+ 
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/NEXT-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/ZOD-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jest](https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/VITEST-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![ClickUp](https://img.shields.io/badge/CLICKUP-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RASPBERRY_PI-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ---
 
 ## 🧭 Who I Am
 
-- Computer Engineering graduate (2026) turned full-stack developer
+- Computer Engineering graduate turned Full-Stack Web Developer
 - Built an automated release management system (ARMS) during my internship at Ordlabs, replacing manual releases
 - Built a full-stack platform with **605+ automated tests** and CI/CD deployment
-- Looking for a **junior full-stack role** where I can ship reliable, production-ready features
+- Looking for a **Full-Stack Web Developer role** where I can ship reliable, production-ready features
 
 ---
 
@@ -60,16 +104,6 @@
 - **Secure by default:** hardened auth, validated requests, rate limiting, CORS, and Helmet
 - **Clear communication:** written English, UTC+8 working hours, work tracked in ClickUp and GitHub
 
----
-
-## 📌 Featured Projects
-
-- **[Progress](https://progress-developer.vercel.app)** is a full-stack project and task management platform built with Next.js, Express, TypeScript, and MongoDB. It has 605+ tests with 99%+ coverage, OAuth with four providers, and CI/CD with Docker. The landing page scores 100 on Lighthouse for Performance, Best Practices, and SEO.
-- **[Real Estate Website Redesign](https://marci-metzger-tan-tau.vercel.app)** is a Next.js site with an interactive Three.js 3D hero and a Brevo-powered lead form. It scores 95 on mobile and 100 on desktop for Lighthouse Performance.
-- **Q-Vision** is thesis work on AI-powered assistive eyewear for blind individuals, built on Raspberry Pi with GPT-4o mini. It reached 89.53% object recognition accuracy and a System Usability Scale score of 74.4.
-- **ARMS (App Release Management System)** is an internship project built with Next.js, Express v5, and TypeScript that automated website and application releases.
-
----
 
 ## 🌱 Currently Learning
 
@@ -77,15 +111,3 @@
 - System design and scalable backend architecture
 - Cloud infrastructure and production monitoring
 - Performance tuning and observability for full-stack apps
-
----
-
-## 📬 Let's Connect
-
-I'm open to junior full-stack roles and freelance projects.
-
-📧 [v.yecyec7@gmail.com](mailto:v.yecyec7@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/vmyecyec) · 🌐 [Portfolio](https://vmy-dev.vercel.app)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,docker,github,vercel,python,django,threejs,figma" />
-</p>
