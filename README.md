@@ -3,15 +3,6 @@
 I'm a **Full-Stack Web Developer** and Computer Engineering graduate based in Cebu City, Philippines (UTC+8). I build secure, well-tested web apps with Next.js, Node.js, and TypeScript, and I ship them to production.
 
 ---
-
-## 🌐 Socials:
- 
-<a href="https://linkedin.com/in/vmyecyec"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/Begeeeg"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://vmy-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:v.yecyec7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-
----
  
 ## 💻 Tech Stack:
  
