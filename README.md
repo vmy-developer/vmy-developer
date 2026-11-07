@@ -1,8 +1,6 @@
 # Hi, I'm Victor Manuel Yecyec 👋
 
-**Full-Stack Web Developer** and Computer Engineering graduate. I'm currently living in Cebu City, Philippines. I build secure, well-tested web apps with Next.js, Node.js, and TypeScript, and I ship them to production.
-
-📍 Cebu City, PH (GMT+8) · 📫 [v.yecyec7@gmail.com](mailto:v.yecyec7@gmail.com) · 🌐 [vmy-dev.vercel.app](https://vmy-dev.vercel.app) · 💼 [LinkedIn](https://linkedin.com/in/vmyecyec)
+**Full-Stack Web Developer** and Computer Engineering graduate. I'm currently living in Cebu City, Philippines (GMT+08:00). I build secure, well-tested web apps with Next.js, Node.js, and TypeScript, and I ship them to production.
 
 ---
 
@@ -104,6 +102,7 @@
 - **Secure by default:** hardened auth, validated requests, rate limiting, CORS, and Helmet
 - **Clear communication:** written English, UTC+8 working hours, work tracked in ClickUp and GitHub
 
+---
 
 ## 🌱 Currently Learning
 
@@ -111,3 +110,6 @@
 - System design and scalable backend architecture
 - Cloud infrastructure and production monitoring
 - Performance tuning and observability for full-stack apps
+- Gaining a deeper understanding of Docker
+- Learning microservice architecture
+- Learning Kubernetes
