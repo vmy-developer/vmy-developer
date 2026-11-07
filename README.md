@@ -1,6 +1,6 @@
 # Hi, I'm Victor Manuel Yecyec 👋
 
-**Full-Stack Web Developer** and Computer Engineering graduate. I'm currently living in Cebu City, Philippines (GMT+08:00). I build secure, well-tested web apps with Next.js, Node.js, and TypeScript, and I ship them to production.
+I'm a **Full-Stack Web Developer** and Computer Engineering graduate based in Cebu City, Philippines (UTC+8). I build secure, well-tested web apps with Next.js, Node.js, and TypeScript, and I ship them to production.
 
 ---
 
@@ -106,10 +106,8 @@
 
 ## 🌱 Currently Learning
 
-- Deeper end-to-end testing with browser automation
-- System design and scalable backend architecture
-- Cloud infrastructure and production monitoring
-- Performance tuning and observability for full-stack apps
-- Gaining a deeper understanding of Docker
-- Learning microservice architecture
-- Learning Kubernetes
+- **Docker & Kubernetes:** container orchestration beyond a single-service setup
+- **Microservice architecture:** service boundaries, communication, and scaling
+- **Supabase (PostgreSQL):** relational data modeling alongside my MongoDB experience
+- **End-to-end testing:** browser automation to complement my API and unit tests
+- **System design & observability:** monitoring and performance for production apps
